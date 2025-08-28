@@ -42,7 +42,7 @@ Readme.md    #Project Documentation
 
 1. Clone or download this repository.  
    ```bash
-   git clone <your-repo-link>
+   git clone (https://github.com/nidaaeman1122/Buildables-Task2.git)
 Open the project folder and launch index.html in your browser.
 
 📱 Screens
@@ -55,4 +55,5 @@ Netlify App Link:
 👩‍💻 Author
 Name: Nida Eman
 Email: nidaeman0987@gmail.com
+
 

@@ -50,10 +50,11 @@ Desktop View: 1440 × 800 with centered card
 
 Mobile View: 375 × 573 with adaptive scaling
 
-Netlify App Link:
+Netlify App Link: https://buildablestask2.netlify.app/
 
 👩‍💻 Author
 Name: Nida Eman
 Email: nidaeman0987@gmail.com
+
 
 

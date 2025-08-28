@@ -41,13 +41,22 @@ body {
   font-size: 24px;
   font-weight: bold;
   margin: 0;
+  width: 182px;
+  height: 29px;
+  line-height: 15px;
+  overflow: hidden;
+  white-space: nowrap;
 }
+
 .location {
   font-size: 14px;
-  color: #9acd32;;
+  color: #9acd32;
   margin: 0;
   font-weight: bold;
+  width: 168px;
+  height: 17px;
 }
+
 .bio {
   width: 256px;
   font-size: 14px;
@@ -55,6 +64,7 @@ body {
   color: #ccc;
   padding: 16px 0;
   margin: 0 auto;
+  height:17px
 }
 .links {
   display: flex;
